@@ -41,11 +41,12 @@ class Loan(models.Model):
    cust_name=models.CharField(max_length=50)
 
 class LoanAdmin(admin.ModelAdmin):
-    list_display=('loan_id','loan_type','loan_amount','cust_acntno','cust_name')
+  list_display=('loan_id','loan_type','loan_amount','cust_acntno','cust_name')  
 
 
 
 ## OUTPUT
+![Screenshot 2024-11-16 150557](https://github.com/user-attachments/assets/2774e950-25a1-4ab4-a1a6-39b81ae89f99)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
