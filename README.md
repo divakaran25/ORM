@@ -7,6 +7,7 @@ To develop a Django application to store and retrieve data from a bank loan data
 
 
 ## DESIGN STEPS
+![Screenshot 2024-12-14 132012](https://github.com/user-attachments/assets/319ebca7-53fb-4506-a617-551c364ab357)
 
 ### STEP 1:
 Clone the problem from GitHub
